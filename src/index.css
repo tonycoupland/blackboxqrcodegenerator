@@ -1,0 +1,10 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.qrcode {
+  width: 200px;
+  height: 200px;
+}
+
